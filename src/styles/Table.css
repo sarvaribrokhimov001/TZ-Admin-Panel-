@@ -1,0 +1,164 @@
+table {
+    width: 100%;
+    height: 100vh;
+    border-collapse: collapse;
+}
+
+th {
+  background-color: #1E2230;
+  color: green;
+  font-weight: 700;
+  font-size: 20px;
+  border: 5px solid red;
+  padding: 12px 50px;
+}
+
+td {
+  border: 5px solid red;
+  font-weight: 700;
+  padding: 12px;   
+  color: green;
+  background-color: #1E2230;
+  font-size: 20px;
+}
+
+td:nth-child(1) {
+  text-align: center;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+td:nth-child(2),
+td:nth-child(3),
+td:nth-child(4),
+td:nth-child(5) {
+  text-align: center;
+}
+
+td:nth-child(6) {
+    width: 270px;
+}
+
+.table__buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;   
+}
+
+.table__view__btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: black;
+    color: green;
+    font-size: 18px;
+    font-weight: 700;
+    border: 3px solid green;
+    box-shadow: 0 4px 12px rgba(0, 128, 0, 0.5);
+    transition: all 0.5s ease;
+}
+
+.table__view__btn:hover {
+    background-color: green;
+    color: white;
+    border: 3px solid white;
+}
+
+.table__view__btn:active {
+    background-color: black;
+    color: green;
+    border: 3px solid green;
+    box-shadow: 0 4px 12px rgba(0, 128, 0, 0.5);
+}
+
+.table__edit__btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: black;
+    color: yellow;
+    font-size: 18px;
+    font-weight: 700;
+    border: 3px solid yellow;
+    box-shadow: 0 4px 12px rgba(255, 193, 7, 0.6);
+    transition: all 0.5s ease;
+}
+
+.table__edit__btn:hover {
+    background-color: yellow;
+    color: black;
+    border: 3px solid black;
+}
+
+.table__edit__btn:active {
+    background-color: black;
+    color: yellow;
+    border: 3px solid yellow;
+    box-shadow: 0 4px 12px rgba(255, 193, 7, 0.6);
+}
+
+.table__delete__btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: black;
+    color: red;
+    font-size: 18px;
+    font-weight: 700;
+    border: 3px solid red;
+    box-shadow: 0 4px 12px rgba(255, 0, 0, 0.5);
+    transition: all 0.5s ease;
+}
+
+.table__delete__btn:hover {
+    background-color: red;
+    color: white;
+    border: 3px solid white;
+}
+
+.table__delete__btn:active {
+    background-color: black;
+    color: red;
+    border: 3px solid red;
+    box-shadow: 0 4px 12px rgba(255, 0, 0, 0.5);
+}
+
+.table__add__btn__container {
+    display: flex;
+    justify-content: end;
+    background-color: #1E2230;
+    padding: 20px;
+}
+
+.table__add__btn {
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: black;
+    color: green;
+    box-shadow: 0 4px 12px rgba(0, 128, 0, 0.5);
+    font-size: 22px;
+    border: 4px solid green;
+    font-weight: 700;
+    transition: all 0.4s ease;
+}
+
+.table__add__btn span {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.table__add__btn:hover {
+    background-color: green;
+    border: 4px solid white;
+    color: white;
+}
+
+.table__add__btn:active {
+    border: 4px solid green;
+    color: green;
+    background-color: black;
+    box-shadow: 0 4px 12px rgba(0, 128, 0, 0.5);
+}

@@ -1,0 +1,22 @@
+.sidebar__container {
+    width: 17%;
+    height: 100vh;
+    background-color: black;
+}
+
+.sidebar__links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    margin: 100px 20px;
+    font-size: 30px;
+}
+
+.sidebar__link {
+    color: red;
+}
+
+.sidebar__link:hover {
+    color: green;
+}

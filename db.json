@@ -1,0 +1,578 @@
+{
+  "Products": [
+    {
+      "name": "Apple MacBook Pro 14\"",
+      "price": "1900",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80",
+      "category": "Computers",
+      "description": "M3 Pro chip, 18GB RAM, 512GB SSD",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Nike Air Max 270",
+      "price": 149.99,
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+      "description": "Lightweight running shoes with Max Air cushioning"
+    },
+    {
+      "id": "4",
+      "name": "Dyson V15 Detect Vacuum",
+      "price": 749.99,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+      "description": "Laser-guided intelligent cordless vacuum cleaner"
+    },
+    {
+      "id": "5",
+      "name": "Canon EOS R6 Mark II",
+      "price": 2499.99,
+      "category": "Photography",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400&q=80",
+      "description": "40MP full-frame mirrorless camera"
+    },
+    {
+      "id": "6",
+      "name": "Levi's 501 Original Jeans",
+      "price": 79.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1604176424472-17cd740f74e9?w=400&q=80",
+      "description": "Classic straight-fit denim jeans"
+    },
+    {
+      "id": "7",
+      "name": "IKEA KALLAX Shelf Unit",
+      "price": 129.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+      "description": "Versatile shelf unit with 16 compartments"
+    },
+    {
+      "id": "8",
+      "name": "Kindle Paperwhite 11th Gen",
+      "price": 139.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&q=80",
+      "description": "6.8\" display, adjustable warm light, waterproof"
+    },
+    {
+      "id": "9",
+      "name": "Vitamix 5200 Blender",
+      "price": 549.99,
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=400&q=80",
+      "description": "Professional-grade high-performance blender"
+    },
+    {
+      "id": "10",
+      "name": "Lego Technic Bugatti",
+      "price": 449.99,
+      "category": "Toys",
+      "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400&q=80",
+      "description": "3,599-piece engineering masterpiece set"
+    },
+    {
+      "id": "11",
+      "name": "Patagonia Down Jacket",
+      "price": 299.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=400&q=80",
+      "description": "800-fill-power down insulated jacket"
+    },
+    {
+      "id": "12",
+      "name": "Samsung 65\" QLED TV",
+      "price": 1299.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=400&q=80",
+      "description": "4K QLED Smart TV with Quantum HDR"
+    },
+    {
+      "id": "13",
+      "name": "Weber Spirit II Gas Grill",
+      "price": 499.99,
+      "category": "Outdoor",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+      "description": "3-burner gas grill with iGrill compatibility"
+    },
+    {
+      "id": "14",
+      "name": "Instant Pot Duo 7-in-1",
+      "price": 89.99,
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=400&q=80",
+      "description": "Multi-use pressure cooker, 8 quart"
+    },
+    {
+      "id": "15",
+      "name": "Adidas Ultraboost 22",
+      "price": 189.99,
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=400&q=80",
+      "description": "Responsive running shoes with BOOST midsole"
+    },
+    {
+      "id": "16",
+      "name": "Ray-Ban Aviator Classic",
+      "price": 163.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&q=80",
+      "description": "Iconic metal frame aviator sunglasses"
+    },
+    {
+      "id": "17",
+      "name": "Bose QuietComfort 45",
+      "price": 279.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400&q=80",
+      "description": "Wireless noise cancelling headphones"
+    },
+    {
+      "id": "18",
+      "name": "YETI Rambler 30 oz Tumbler",
+      "price": 39.99,
+      "category": "Outdoors",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&q=80",
+      "description": "Double-wall vacuum insulated tumbler"
+    },
+    {
+      "id": "19",
+      "name": "Theragun Pro Massager",
+      "price": 599.99,
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=400&q=80",
+      "description": "Professional percussive therapy device"
+    },
+    {
+      "id": "20",
+      "name": "DJI Mini 3 Pro Drone",
+      "price": 759.99,
+      "category": "Photography",
+      "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=400&q=80",
+      "description": "48MP camera, 4K/60fps, obstacle sensing"
+    },
+    {
+      "id": "0570",
+      "name": "Sarvar",
+      "price": 0,
+      "category": "person",
+      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
+      "description": "Never give up"
+    },
+    {
+      "id": "f277",
+      "name": "Sarvar",
+      "price": 0,
+      "category": "person",
+      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
+      "description": "Never give up"
+    },
+    {
+      "id": "0925",
+      "name": "Sarvar",
+      "price": 0,
+      "category": "person",
+      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
+      "description": "Never give up"
+    },
+    {
+      "id": "8673",
+      "name": "Sarvar",
+      "price": 0,
+      "category": "person",
+      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
+      "description": "Never give up"
+    },
+    {
+      "name": "scenery",
+      "price": "2668",
+      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
+      "category": "weather",
+      "description": "Never give up",
+      "id": "8853"
+    },
+    {
+      "id": "65f6",
+      "name": "asjfbjshdbj",
+      "price": "216562",
+      "category": "weather",
+      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
+      "description": "sadas"
+    }
+  ],
+  "Users": [
+    {
+      "id": "1",
+      "name": "James Anderson",
+      "email": "james.anderson@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "role": "Admin",
+      "joined": "2021-03-15",
+      "country": "United States"
+    },
+    {
+      "id": "2",
+      "name": "Sofia Martinez",
+      "email": "sofia.martinez@outlook.com",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "role": "User",
+      "joined": "2022-07-22",
+      "country": "Spain"
+    },
+    {
+      "id": "3",
+      "name": "Liam Thompson",
+      "email": "liam.thompson@yahoo.com",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "role": "Moderator",
+      "joined": "2020-11-05",
+      "country": "Canada"
+    },
+    {
+      "id": "4",
+      "name": "Yuki Tanaka",
+      "email": "yuki.tanaka@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "role": "User",
+      "joined": "2023-01-18",
+      "country": "Japan"
+    },
+    {
+      "id": "5",
+      "name": "Emma Wilson",
+      "email": "emma.wilson@icloud.com",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "role": "User",
+      "joined": "2022-09-30",
+      "country": "UK"
+    },
+    {
+      "id": "6",
+      "name": "Carlos Reyes",
+      "email": "carlos.reyes@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "role": "Admin",
+      "joined": "2019-05-12",
+      "country": "Mexico"
+    },
+    {
+      "id": "7",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@hotmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "role": "User",
+      "joined": "2023-04-07",
+      "country": "India"
+    },
+    {
+      "id": "8",
+      "name": "Noah Garcia",
+      "email": "noah.garcia@proton.me",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "role": "User",
+      "joined": "2021-08-19",
+      "country": "Argentina"
+    },
+    {
+      "id": "9",
+      "name": "Aisha Johnson",
+      "email": "aisha.johnson@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "role": "Moderator",
+      "joined": "2020-02-28",
+      "country": "Nigeria"
+    },
+    {
+      "id": "10",
+      "name": "Felix Müller",
+      "email": "felix.muller@web.de",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "role": "User",
+      "joined": "2022-12-01",
+      "country": "Germany"
+    },
+    {
+      "id": "11",
+      "name": "Chloe Dubois",
+      "email": "chloe.dubois@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "role": "User",
+      "joined": "2023-06-14",
+      "country": "France"
+    },
+    {
+      "id": "12",
+      "name": "Mohammed Al-Rashid",
+      "email": "m.alrashid@outlook.com",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "role": "Admin",
+      "joined": "2020-10-03",
+      "country": "Saudi Arabia"
+    },
+    {
+      "id": "13",
+      "name": "Isabela Costa",
+      "email": "isabela.costa@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "role": "User",
+      "joined": "2021-05-25",
+      "country": "Brazil"
+    },
+    {
+      "id": "14",
+      "name": "Oliver Chen",
+      "email": "oliver.chen@icloud.com",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "role": "User",
+      "joined": "2022-03-11",
+      "country": "Australia"
+    },
+    {
+      "id": "15",
+      "name": "Valentina Rossi",
+      "email": "val.rossi@libero.it",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "role": "Moderator",
+      "joined": "2019-12-20",
+      "country": "Italy"
+    },
+    {
+      "id": "16",
+      "name": "Ethan Brown",
+      "email": "ethan.brown@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "role": "User",
+      "joined": "2023-02-09",
+      "country": "United States"
+    },
+    {
+      "id": "17",
+      "name": "Hana Kim",
+      "email": "hana.kim@naver.com",
+      "avatar": "https://i.pravatar.cc/150?img=17",
+      "role": "User",
+      "joined": "2022-08-17",
+      "country": "South Korea"
+    },
+    {
+      "id": "18",
+      "name": "Lucas Petrov",
+      "email": "lucas.petrov@mail.ru",
+      "avatar": "https://i.pravatar.cc/150?img=18",
+      "role": "Admin",
+      "joined": "2018-07-04",
+      "country": "Russia"
+    },
+    {
+      "id": "19",
+      "name": "Amara Okafor",
+      "email": "amara.okafor@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=19",
+      "role": "User",
+      "joined": "2023-07-31",
+      "country": "Ghana"
+    },
+    {
+      "id": "20",
+      "name": "Henrik Johansson",
+      "email": "henrik.j@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "role": "User",
+      "joined": "2021-11-16",
+      "country": "Sweden"
+    }
+  ],
+  "Cars": [
+    {
+      "id": "1",
+      "make": "Toyota",
+      "model": "Land Cruiser 300",
+      "year": 2023,
+      "price": 85000,
+      "color": "Pearl White",
+      "image": "https://images.unsplash.com/photo-1559416523-140ddc3d238c?w=400&q=80"
+    },
+    {
+      "id": "2",
+      "make": "BMW",
+      "model": "M4 Competition",
+      "year": 2023,
+      "price": 74900,
+      "color": "Sao Paulo Yellow",
+      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&q=80"
+    },
+    {
+      "id": "3",
+      "make": "Tesla",
+      "model": "Model S Plaid",
+      "year": 2023,
+      "price": 108990,
+      "color": "Midnight Silver",
+      "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=400&q=80"
+    },
+    {
+      "id": "4",
+      "make": "Mercedes-Benz",
+      "model": "G 63 AMG",
+      "year": 2023,
+      "price": 182450,
+      "color": "Obsidian Black",
+      "image": "https://images.unsplash.com/photo-1564518894561-eeca2a7e3c8d?w=400&q=80"
+    },
+    {
+      "id": "5",
+      "make": "Porsche",
+      "model": "911 Turbo S",
+      "year": 2023,
+      "price": 216150,
+      "color": "GT Silver Metallic",
+      "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=400&q=80"
+    },
+    {
+      "id": "6",
+      "make": "Ford",
+      "model": "F-150 Raptor R",
+      "year": 2023,
+      "price": 109145,
+      "color": "Code Orange",
+      "image": "https://images.unsplash.com/photo-1520031441872-265e4ff70366?w=400&q=80"
+    },
+    {
+      "id": "7",
+      "make": "Lamborghini",
+      "model": "Urus Performante",
+      "year": 2023,
+      "price": 283995,
+      "color": "Giallo Orion",
+      "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=400&q=80"
+    },
+    {
+      "id": "8",
+      "make": "Audi",
+      "model": "RS e-tron GT",
+      "year": 2023,
+      "price": 143395,
+      "color": "Tactical Green",
+      "image": "https://images.unsplash.com/photo-1606152421802-db97b9c7a11b?w=400&q=80"
+    },
+    {
+      "id": "9",
+      "make": "Rivian",
+      "model": "R1T Adventure",
+      "year": 2023,
+      "price": 73000,
+      "color": "Forest Green",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80"
+    },
+    {
+      "id": "10",
+      "make": "Ferrari",
+      "model": "296 GTB",
+      "year": 2023,
+      "price": 322986,
+      "color": "Rosso Corsa",
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=400&q=80"
+    },
+    {
+      "id": "11",
+      "make": "Chevrolet",
+      "model": "Corvette Z06",
+      "year": 2023,
+      "price": 106395,
+      "color": "Amplify Orange",
+      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=400&q=80"
+    },
+    {
+      "id": "12",
+      "make": "Range Rover",
+      "model": "Sport SVR",
+      "year": 2023,
+      "price": 125950,
+      "color": "Carpathian Grey",
+      "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=400&q=80"
+    },
+    {
+      "id": "13",
+      "make": "Rolls-Royce",
+      "model": "Ghost Black Badge",
+      "year": 2023,
+      "price": 389950,
+      "color": "Black Diamond",
+      "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=400&q=80"
+    },
+    {
+      "id": "14",
+      "make": "Jeep",
+      "model": "Wrangler Rubicon 392",
+      "year": 2023,
+      "price": 79990,
+      "color": "Tuscadero Pink",
+      "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400&q=80"
+    },
+    {
+      "id": "15",
+      "make": "Maserati",
+      "model": "MC20 Cielo",
+      "year": 2023,
+      "price": 257300,
+      "color": "Azzurro Astro",
+      "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=400&q=80"
+    },
+    {
+      "id": "16",
+      "make": "Honda",
+      "model": "Civic Type R",
+      "year": 2023,
+      "price": 44990,
+      "color": "Boost Blue Pearl",
+      "image": "https://images.unsplash.com/photo-1583267702057-20cebe64c3f3?w=400&q=80"
+    },
+    {
+      "id": "17",
+      "make": "Bentley",
+      "model": "Bentayga Speed",
+      "year": 2023,
+      "price": 279900,
+      "color": "Beluga",
+      "image": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?w=400&q=80"
+    },
+    {
+      "id": "18",
+      "make": "Hyundai",
+      "model": "IONIQ 6 AWD",
+      "year": 2023,
+      "price": 52615,
+      "color": "Gravity Gold Matte",
+      "image": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=400&q=80"
+    },
+    {
+      "id": "19",
+      "make": "Nissan",
+      "model": "GT-R NISMO",
+      "year": 2023,
+      "price": 214090,
+      "color": "Stealth Grey",
+      "image": "https://images.unsplash.com/photo-1566473965997-3de9c817e938?w=400&q=80"
+    },
+    {
+      "id": "20",
+      "make": "Volvo",
+      "model": "XC90 Recharge",
+      "year": 2023,
+      "price": 67295,
+      "color": "Denim Blue",
+      "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=400&q=80"
+    },
+    {
+      "id": "b17e",
+      "make": "zxvxx",
+      "model": "sdfdsg",
+      "year": "23423",
+      "price": "223",
+      "color": "2323",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
