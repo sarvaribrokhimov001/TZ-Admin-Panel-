@@ -94,7 +94,7 @@ const Table = ({ items = [], type }) => {
                     <td> {item.make} </td>
                     <td> {item.model} </td>
                     <td> {item.year} </td>
-                    <td> {item.price} $ </td>
+                    <td style={{textAlign : "center"}}> {item.price} $ </td>
                     <td> {item.color} </td>
                   </>
                 ) : (
