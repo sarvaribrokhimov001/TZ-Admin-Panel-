@@ -2,7 +2,7 @@
   "Products": [
     {
       "name": "Apple MacBook Pro 14\"",
-      "price": "1900",
+      "price": "0",
       "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80",
       "category": "Computers",
       "description": "M3 Pro chip, 18GB RAM, 512GB SSD",
@@ -183,14 +183,6 @@
       "category": "person",
       "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
       "description": "Never give up"
-    },
-    {
-      "name": "scenery",
-      "price": "2668",
-      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
-      "category": "weather",
-      "description": "Never give up",
-      "id": "8853"
     }
   ],
   "Users": [
@@ -555,15 +547,6 @@
       "price": 67295,
       "color": "Denim Blue",
       "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=400&q=80"
-    },
-    {
-      "id": "b17e",
-      "make": "zxvxx",
-      "model": "sdfdsg",
-      "year": "23423",
-      "price": "223",
-      "color": "2323",
-      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
