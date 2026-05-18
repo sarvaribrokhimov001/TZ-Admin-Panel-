@@ -167,22 +167,6 @@
       "category": "person",
       "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
       "description": "Never give up"
-    },
-    {
-      "id": "0925",
-      "name": "Sarvar",
-      "price": 0,
-      "category": "person",
-      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
-      "description": "Never give up"
-    },
-    {
-      "id": "8673",
-      "name": "Sarvar",
-      "price": 0,
-      "category": "person",
-      "image": "https://m.media-amazon.com/images/I/8192Yt4zAfL._AC_UF894,1000_QL80_.jpg",
-      "description": "Never give up"
     }
   ],
   "Users": [
